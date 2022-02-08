@@ -9,6 +9,8 @@ int main()
 	std::cout << "commit2";
 	
 	std::cout << "git commit";
+
+	std::cout << "branch commit";
 	
 	return 0;
 }
