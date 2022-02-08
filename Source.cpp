@@ -4,7 +4,7 @@ int main()
 {
 	std::cout << "commit1";
 
-	std::cout << "test change1";
+	std::cout << "test change2";
 
 	std::cout << "commit2";
 	
