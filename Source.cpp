@@ -10,5 +10,7 @@ int main()
 	
 	std::cout << "git commit";
 	
+	std::cout << "master commit";
+
 	return 0;
 }
