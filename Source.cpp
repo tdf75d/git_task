@@ -7,6 +7,8 @@ int main()
 	std::cout << "test";
 
 	std::cout << "commit2";
-
+	
+	std::cout << "git commit";
+	
 	return 0;
 }
