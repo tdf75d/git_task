@@ -6,5 +6,7 @@ int main()
 
 	std::cout << "test";
 
+	std::cout << "commit2";
+
 	return 0;
 }
