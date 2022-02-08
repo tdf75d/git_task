@@ -4,7 +4,7 @@ int main()
 {
 	std::cout << "commit1";
 
-	std::cout << "test";
+	std::cout << "test change";
 
 	std::cout << "commit2";
 	
@@ -17,6 +17,8 @@ int main()
 	std::cout << "branch commit2";
 
 	std::cout << "master commit2";
+
+	std::cout << "branch2 commit2";
 
 	return 0;
 }
