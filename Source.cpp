@@ -18,5 +18,7 @@ int main()
 
 	std::cout << "master commit2";
 
+	std::cout << "branch2 commit2";
+
 	return 0;
 }
