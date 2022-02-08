@@ -12,5 +12,7 @@ int main()
 
 	std::cout << "branch commit";
 	
+	std::cout << "master commit";
+
 	return 0;
 }
